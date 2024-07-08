@@ -1,6 +1,5 @@
 VertexVR is a cutting-edge landing page for a virtual reality software company, which I built using React and Tailwind CSS. A tutorial video on YouTube inspired this project, but I've added several custom features and modifications to enhance the user experience.
 # 
-
 # Key Features
 - Smooth Scrolling Navigation: The navbar links seamlessly scroll the user to the corresponding sections of the page, providing a seamless and intuitive navigation experience.
 - Responsive Design: The landing page is optimized for various screen sizes, ensuring a consistent and visually appealing experience across desktop, tablet, and mobile devices.
@@ -18,12 +17,32 @@ VertexVR is a cutting-edge landing page for a virtual reality software company, 
 
 # Installation and Usage
 To run the VertexVR landing page locally, follow these steps:
-<ol type="I>
-  <li> Clone the repository: https://github.com/rohankr09/VertexVR-Landing-Page.git </li>
-  <li> Navigate to the project directory: cd vertexvr </li>
-  <li> Install the dependencies: npm install </li>
-  <li> Start the development server: npm run dev
-  <li> Open your browser and visit http://localhost:5137 to view the landing page.
+<ol type="i>
+  <li> Clone the repository:
+  ---bash
+  https://github.com/rohankr09/VertexVR-Landing-Page.git
+  ---
+  </li>
+  <li> Navigate to the project directory:
+  ---bash
+  cd vertexvr
+  ---
+  </li>
+  <li> Install the dependencies: 
+  ---bash
+  npm install
+  ---
+  </li>
+  <li> Start the development server: 
+  ---bash 
+  npm run dev
+  ---
+  </li>
+  <li> Open your browser and visit
+  ---bash
+  http://localhost:5137 to view the landing page.
+  ---
+  </li>
   </ol>
 
 # Deployment
@@ -33,6 +52,6 @@ I have successfully deployed the VertexVR landing page on Vercel, and it can be 
 This project was inspired by the tutorial video "Build and Deploy Fully Responsive Landing Page: React + Tailwind CSS" by Compile Tab on YouTube. I have built upon the tutorial's foundation and added my unique features and customizations.
 
 # Contact
-If you have any questions or feedback about the VertexVR landing page, feel free to contact me at via Linkedin: - https://www.linkedin.com/in/rohankumar04
+If you have any questions or feedback about the VertexVR landing page, feel free to contact me via Linkedin: - https://www.linkedin.com/in/rohankumar04
 
 Keep Learning, Keep Growing 🔥🐱‍🏍
